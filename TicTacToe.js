@@ -1,4 +1,4 @@
-[11:05, 2/11/2025] Akhila: import React, { useState } from "react";
+import React, { useState } from "react";
 import "./TicTacToe.css";
 
 export default function TicTacToe() {
